@@ -1,2 +1,2 @@
 # Lab 5 - Starter
-**Names: Mehdi Aziz & Abdul Manan**
+**Names: Mehdi Aziz & Manan**
